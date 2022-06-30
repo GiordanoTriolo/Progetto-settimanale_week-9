@@ -1,12 +1,3 @@
-//Premessa per chi correggerà, mi rendo conto che il mio codice non sia esattamente quello che 
-//ci si aspetta da un esercizio settimanale, ma questo weekend non ho avuto il modo di dedicarci
-//il giusto tempo. Ho recuperato le lezioni e sono riuscito comunque a far funzionare quel poco che ho scritto,
-//consapevole del fatto che tutto quello che mi manca è l'inserimento di logica puramente javascript
-//e della parte grafica, cose che comunque abbiamo già abbondantemente affrontato in precedenza
-//e su cui mi sento abbastanza sicuro. 
-//Scusate per questa nota introduttiva, non voglio giustificare il poco tempo che ci ho messo,
-//ma solo spiegarvi come mai il codice è così scarno
-
 const costoChiamata: number = 0.20;
 
 class Smartphone{
